@@ -158,7 +158,15 @@ li {
   color: var(--font-color-ligth);
 }
 
+.contact img{
+  max-width: 80px;
+  border-radius: 30px;
+}
 
+
+.contact ul li{
+  display: inline;
+}
 
 @media(max-width: 535px){
   .navbar{
